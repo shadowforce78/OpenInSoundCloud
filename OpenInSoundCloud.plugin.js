@@ -3,7 +3,8 @@
 * @description  Allows you to search for Spotify songs in SoundCloud.
 * @source       https://github.com/shadowforce78/OpenInSoundCloud
 * @author       ☆ scriptor.js ☆#7594
-* @invite       mKXjfgGSeP
+* @invite       https://discord.gg/mKXjfgGSeP
+* @website      https://scriptorcode.7m.pl
 * @version      1.0
 */
 
